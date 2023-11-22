@@ -1,0 +1,18 @@
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\bin\Debug\Management System.exe.config
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\bin\Debug\Management System.exe
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\bin\Debug\Management System.pdb
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\obj\Debug\Management System.csproj.AssemblyReference.cache
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\obj\Debug\Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\obj\Debug\Management_System.FrmLogin.resources
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\obj\Debug\Management_System.Properties.Resources.resources
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\obj\Debug\Management System.csproj.GenerateResource.cache
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\obj\Debug\Management System.csproj.CoreCompileInputs.cache
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\obj\Debug\Management System.exe
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\obj\Debug\Management System.pdb
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\obj\Debug\Management_System.FrmAddUser.resources
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\obj\Debug\Management_System.FrmAddMedicine.resources
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\obj\Debug\Management_System.FrmBrowse.resources
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\obj\Debug\Management_System.FrmCustomer_Registration.resources
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\obj\Debug\Management_System.FrmDashBoard.resources
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\obj\Debug\Management_System.FrmAddSupplier.resources
+C:\Users\asust\OneDrive\Desktop\C# Final Project\Management System\obj\Debug\Management_System.FrmLoading.resources
